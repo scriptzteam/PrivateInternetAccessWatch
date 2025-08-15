@@ -18,7 +18,7 @@ jobs:
       
       - name: Force add and commit
         run: |
-          git config --local user.email "s-c-r-i-p-t-z-t-e-a-m@proton.me"
+          git config --local user.email "scriptzteam@gmail.com"
           git config --local user.name "scriptzteam"
           git add -f Readme.md
           git status
